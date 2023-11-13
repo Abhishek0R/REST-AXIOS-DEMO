@@ -15,4 +15,4 @@ Axios library handles the fetching of database.
 npm install react-scripts --save 
 may need to be run in case of react-scripts error.
 
-![Screenshot](101.png)
+![ezcv logo](https://raw.githubusercontent.com/Abhishek0R/REST-AXIOS-DEMO/main/101.png)
