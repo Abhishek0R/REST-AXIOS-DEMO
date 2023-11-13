@@ -8,7 +8,6 @@ db .json file created to act as database where all the changes made in frontend 
 URL passed is localhost:3000/posts wherein resides the major part of the content. The json server needs to be hosted in localhost:3000.
 
 Upvote, downvote option enables users to vote and showcase their opinion on the posts which acts as an extension of update.
-Option works only when DOUBLE-CLICKED.
 
 Axios library handles the fetching of database. 
 
