@@ -7,7 +7,7 @@ Edit option utlises 'put' to edit the contents without changing the ID of the or
 db.json file created to act as database where all the changes made in frontend will be reflected. 
 URL passed is localhost:3000/posts wherein resides the major part of the content. The json server needs to be hosted in localhost:3000.
 
-Upvote, downvote option enables users to vote and showcase their opinion on the posts which acts as an extension of update.
+Upvote, downvote option enables users to vote and showcase their opinion on the posts which aids in user interaction with other posts.
 
 Axios library handles the fetching of database. 
 
