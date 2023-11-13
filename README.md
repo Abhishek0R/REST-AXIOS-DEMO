@@ -2,6 +2,7 @@
 Voting app where one can create posts and vote on it. Created using React showcasing REST API using Axios library
 
 Voting app built as a continuation of the guide provided with editing option, upvoting and downvoting options added. 
+Number below body of post indicates the votes for the post.
 Edit option utlises 'put' to edit the contents without changing the ID of the original post.
 
 db.json file created to act as database where all the changes made in frontend will be reflected. 
