@@ -12,7 +12,12 @@ Upvote, downvote option enables users to vote and showcase their opinion on the 
 
 Axios library handles the fetching of database. 
 
+npm run json:server
+
+to start the json server 
+
 npm install react-scripts --save 
+
 may need to be run in case of react-scripts error.
 
 ![101](https://github.com/Abhishek0R/REST-AXIOS-DEMO/assets/129680199/d250e576-bd25-4975-9bd7-4dc99d752cc2)
