@@ -12,6 +12,8 @@ Upvote, downvote option enables users to vote and showcase their opinion on the 
 
 Axios library handles the fetching of database. 
 
+COMMANDS:
+
 npm run json:server
 
 to start the json server 
